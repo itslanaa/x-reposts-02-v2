@@ -1,5 +1,9 @@
 # x-reposts-02 v2 — six surviving quote posts
 
+[![make.fun · makefun-x-reposts-02](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/itslanaa/x-reposts-02-v2/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/itslanaa/x-reposts-02-v2/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+
 Re-entry for the make.fun bounty "Get the most reposts and likes on
 make.fun's newest X posts" ([makefun-x-reposts-02](https://make.fun/bounty/makefun-x-reposts-02),
 $500 shared by the top 50).
